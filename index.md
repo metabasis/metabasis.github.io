@@ -1,8 +1,8 @@
 ## 元宇宙
 
-You can use the [editor on GitHub](https://github.com/metabasis/metabasis.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+元宇宙（Metaverse）是整合多种新技术而产生的新型虚实相融的互联网应用和社会形态，它基于扩展现实技术提供沉浸式体验
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+基于数字孪生技术生成现实世界的镜像，基于区块链技术搭建经济体系，将虚拟世界与现实世界在经济系统、社交系统、身份系统上密切融合，并且允许每个用户进行内容生产和世界编辑。
 
 ### Markdown
 
